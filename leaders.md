@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Victor Ruiz](mailto:victor.ruiz@owasp.org)
+* [Aimee Ruiz](mailto:aimee.ruiz@owasp.org)
