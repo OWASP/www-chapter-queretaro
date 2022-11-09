@@ -37,7 +37,6 @@ El capítulo de Querétaro tiene como finalidad reunir al sector empresarial, em
 
 Próximos eventos <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
 
 Event: 2022 OWASP Global AppSec San Francisco
 Date: 2022-11-14
