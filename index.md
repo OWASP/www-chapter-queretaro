@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP Queretaro
-tags: example-tag
+title: OWASP Querétaro
+tags: 
 region: North America
 meetup-group:
 
@@ -26,19 +26,25 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 
 </div>
 
-## Welcome
-Include some information here about your chapter
+## Bienvenida
+OWASP (Open Web Application Security Project) es una organización mundial sin fines de lucro dedicada a mejorar la seguridad de software. Nuestro objetivo es difundir la seguridad de software para que individuos y organizaciones puedan tomar decisiones adecuadas y permanecer protegidas.
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Otro de los objetivos es impulsar el desarrollo económico, profesional y laboral con enfoque en ciberseguridad, mediante la interconección de gobierno, empresas, instituciones educativas, inversionistas, entre otros grupos de interés, al mismo tiempo que ofrece una amplia gama de capacitaciones en ciberseguridad.
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+## Participación
+El capítulo de Querétaro tiene como finalidad reunir al sector empresarial, emprendedor, gobierno, educativo, tecnológico e industrial en el estado de Querétaro, por lo que todas las iniciativas de colaboración son bien recibidas, especialmente aquellas que nos ayuden a promover y organizar eventos en la región. Además, el capítulo de Querétaro buscará desarrollar un ecosistema que permita generar empleos y crear vínculos entre las necesidades de las organizaciones (privadas y gobierno) y la oferta laboral buscando un alto impacto económico, social, cultural y laboral.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+Próximos eventos <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
+
+Event: 2022 OWASP Global AppSec San Francisco
+Date: 2022-11-14
+Time: 10:00 (America/Mexico_City)
+Link: https://www.meetup.com/owasp-riviera-maya/events/289188849
+Description:
+Global AppSec San Francisco returns November 14-18. Designed for private and public sector infosec professionals, the two-day OWASP conferences equip developers, defenders, and advocates to build a more secure web. We offer educational 1-day, 2-day, and 3-day [training courses](https://sf.globalappsec.org/trainings/) on November 14-16. Join us for leading application security technologies, speakers, prospects, and community in a unique event that will build on everything you already know to expect from an OWASP Global Conference. Full conference details, including training courses, can be found under the Program tab above or [here](https://sf.globalappsec.org/schedule/). **[REGISTER](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877)**
 
 <!-- You should delete this comment
 
