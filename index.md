@@ -19,15 +19,37 @@ El capítulo de Querétaro tiene como finalidad reunir al sector empresarial, em
 Próximos eventos <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 
-Virtual On-Line Event
+OWASP December Developer Webinar (EDT time zone)
+OWASP Top 10 Developer Webinar with world renowned Trainer, Jim Manico
 
-The OWASP 2022 Global AppSec AsiaPacific Conference will be held virtually from August 31 - September 1, 2022.
-Designed for private and public sector infosec professionals, the two-day OWASP conference, featuring a track in Japanese, equips developers, defenders, and advocates to build a more secure web.  Join us for leading application security technologies, speakers, prospects, and the community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.
+Location: Online
+Date and time
+Mon, Dec 5, 2022, 12:00 PM – Tue, Dec 6, 2022, 4:00 PM EST
 
-The Global AppSec APAC Conference takes place August 31-September 1, 2022, from 9:00 to 17:00 SGT. 
+NOTE: This is ONE webinar course that is being split over the course of TWO days, FOUR hours each day. Monday, December 5, AND Tuesday, December 6. Tuesday will be a continuation from Monday. Both training days will begin at 12 pm/EDT.
 
-To access the conference, please register for an account using the same email address used for ticketing: https://globalappsecapac.events.whova.com/sign_up
+Software developers are the foundation of any application. As software developers author code that makes up a web application or API, they need to embrace and practice a wide variety of secure coding techniques. The OWASP Top Ten (2021) is an OWASP documentation project that lists critical security risks that should be addressed in every software development project. This document was written to assist those new to secure development.
 
- 
+This training is designed for developers to help them write more secure code. This class will include both lectures and a variety of demonstrations. We'll also do a few different labs together at the end of the class on day 2. We will cover the following topics:
 
-If you already have an account, please sign in here: https://globalappsecapac.events.whova.com/sign_in/
+A01:2021-Broken Access Control
+
+A02:2021-Cryptographic Failures
+
+A03:2021-Injection
+
+A04:2021-Insecure Design
+
+A05:2021-Security Misconfiguration
+
+A06:2021-Vulnerable and Outdated Components
+
+A07:2021-Identification and Authentication Failures
+
+A08:2021-Software and Data Integrity Failures
+
+A09:2021-Security Logging and Monitoring Failure
+
+A10:2021-Server-Side Request Forgery
+
+More information: https://www.eventbrite.com/e/owasp-december-developer-webinar-edt-time-zone-tickets-247416939727
