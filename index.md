@@ -19,9 +19,15 @@ El capítulo de Querétaro tiene como finalidad reunir al sector empresarial, em
 Próximos eventos <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 
-Event: 2022 OWASP Global AppSec San Francisco
-Date: 2022-11-14
-Time: 10:00 (America/Mexico_City)
-Link: https://www.meetup.com/owasp-riviera-maya/events/289188849
-Description:
-Global AppSec San Francisco returns November 14-18. Designed for private and public sector infosec professionals, the two-day OWASP conferences equip developers, defenders, and advocates to build a more secure web. We offer educational 1-day, 2-day, and 3-day [training courses](https://sf.globalappsec.org/trainings/) on November 14-16. Join us for leading application security technologies, speakers, prospects, and community in a unique event that will build on everything you already know to expect from an OWASP Global Conference. Full conference details, including training courses, can be found under the Program tab above or [here](https://sf.globalappsec.org/schedule/). **[REGISTER](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877)**
+Virtual On-Line Event
+
+The OWASP 2022 Global AppSec AsiaPacific Conference will be held virtually from August 31 - September 1, 2022.
+Designed for private and public sector infosec professionals, the two-day OWASP conference, featuring a track in Japanese, equips developers, defenders, and advocates to build a more secure web.  Join us for leading application security technologies, speakers, prospects, and the community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.
+
+The Global AppSec APAC Conference takes place August 31-September 1, 2022, from 9:00 to 17:00 SGT. 
+
+To access the conference, please register for an account using the same email address used for ticketing: https://globalappsecapac.events.whova.com/sign_up
+
+ 
+
+If you already have an account, please sign in here: https://globalappsecapac.events.whova.com/sign_in/
