@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 ## Bienvenida
-OWASP (Open Web Application Security Project) es una organización mundial sin fines de lucro dedicada a mejorar la seguridad de software. Nuestro objetivo es difundir la seguridad de software para que individuos y organizaciones puedan tomar decisiones adecuadas y permanecer protegidas.
+OWASP (Open Worldwide Application Security Project) es una organización mundial sin fines de lucro dedicada a mejorar la seguridad de software. Nuestro objetivo es difundir la seguridad de software para que individuos y organizaciones puedan tomar decisiones adecuadas y permanecer protegidas.
 
 Otro de los objetivos es impulsar el desarrollo económico, profesional y laboral con enfoque en ciberseguridad, mediante la interconección de gobierno, empresas, instituciones educativas, inversionistas, entre otros grupos de interés, al mismo tiempo que ofrece una amplia gama de capacitaciones en ciberseguridad.
 
