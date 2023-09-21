@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Querétaro
 tags: 
 region: North America
+country: Mexico
 meetup-group:
 
 ---
