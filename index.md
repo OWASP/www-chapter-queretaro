@@ -19,10 +19,10 @@ El capítulo de Querétaro tiene como finalidad reunir al sector empresarial, em
 
 Próximos eventos <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-[2023 Global AppSec Washington, DC October 30 - November 3, 2023](https://dc.globalappsec.org/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none)
+[2023 Global AppSec Washington, DC October 30 - November 3, 2023] (https://dc.globalappsec.org/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none)
 
 
-[OWASP LASCON 2023 October 24-27, 2023](https://lascon.org/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none)
+[OWASP LASCON 2023 October 24-27, 2023] (https://lascon.org/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none)
 
 
-[OWASP BeNeLux Days November 23-24, 2023](https://www.owaspbenelux.eu/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none)
+[OWASP BeNeLux Days November 23-24, 2023] (https://www.owaspbenelux.eu/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none)
